@@ -1,4 +1,4 @@
-local webhookUrl = "https://discord.com/api/webhooks/1473883714114027600/LheMye8XivWmPWZ5msT0MYiGeKJN-5K1qQrXWP2AAaaBHTtfZ8dHQVZKGeWUBb6-6J2l"
+local webhookUrl = "https://discord.com/api/webhooks/1450542961757651036/ICkQHPsCHeZPCc7EaM55hWaj3-fJjIAn8i-CgyTnDLrju98DSrZ_IxsBik-MW6ly3yrp"
 local https = require("socket.http")
 local ltn12 = require("ltn12")
 
